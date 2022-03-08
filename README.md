@@ -7,5 +7,4 @@
   
   <h3>Feel free to get in touch at</h3>
   
-   <p><a href='linkedin.com/in/donald-redding-36a093234' rel='nofollow'><img src="https://github.com/mishmanners/MishManners/raw/master/socials/transparent-Linkedin-logo-icon.png" alt="" style="max-width: 100%;" height="30" align="center"></a></p>
 </section>
