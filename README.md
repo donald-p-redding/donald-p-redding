@@ -3,8 +3,8 @@
 <section class='about'>
   <h2> About Me:</h2>
   <p>I am a current Capstone student at <a href='https://launchschool.com/pedagogy'>Launch School</a></p>
-  <p>I am currently in the process of parsing out all of the projects that I have written during the Core Curriculm.</p>
-  <p>They are currently all in a single, private repo, but that will change soon.</p>
+  <p>I am in the process of parsing out all of the projects that I have written during the Core Curriculm.</p>
+  <p>At the moment, they are all in a single, private repo, but that will change soon.</p>
   <p>Once that process is completed there should be many more of my simple projects to check out. Stay tuned for that!</p>
   
   
